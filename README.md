@@ -32,7 +32,7 @@ You can get a valid absolute map path by running ```echo $PWD/src/main/resources
 After executing the start endpoint, you can try out all other endpoints.
 
 ## Aside 
-The game this API builds is meant to be played using a viewer server running alongside it, however, as this was a 2 day long assignment, the viewer's source code was given to students and belongs to EPITA, thus I cannot share it
+The game this API builds is meant to be played using a viewer server running alongside it, however, as this was a school assignment, the viewer's source code was given to students and belongs to EPITA, thus I cannot share it
 
 ## Technical stack
 - Java
